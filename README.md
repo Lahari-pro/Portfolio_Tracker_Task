@@ -10,4 +10,4 @@ I used the Spring Suite platform to execute the code and add some dependencies l
 -->FrontEnd-HTML,CSS,JavaScript
 -->Databse-Oracle
 -->Java,SpringBoot(Tomcat Server with port 8082 number) 
-with the help of GET request fetch the databse stored data and stores the data in table(frontend page) usind renderTable Function..
+with the help of GET,PUT,DELETE connects the frontend to backend..
