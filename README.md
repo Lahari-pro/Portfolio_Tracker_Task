@@ -15,3 +15,6 @@ with the help of GET,PUT,DELETE connects the frontend to backend..
 steps to execute the code:
 1..Run the code in spring suite by adding the required dependencies.
 2..By running the application with spring boot app(we start the request with http://localhost:8082/index.html which shows the webpage...and that data is added to the database by using the API stock requests..
+
+Drive Link--how the code is working
+https://drive.google.com/file/d/1hFQSNW3m_yYHUCuN3EPekzrnwDUgMOZZ/view?usp=drive_link
