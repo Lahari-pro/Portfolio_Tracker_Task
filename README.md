@@ -11,3 +11,7 @@ I used the Spring Suite platform to execute the code and add some dependencies l
 -->Databse-Oracle
 -->Java,SpringBoot(Tomcat Server with port 8082 number) 
 with the help of GET,PUT,DELETE connects the frontend to backend..
+
+steps to execute the code:
+1..Run the code in spring suite by adding the required dependencies.
+2..By running the application with spring boot app(we start the request with http://localhost:8082/index.html which shows the webpage...and that data is added to the database by using the API stock requests..
